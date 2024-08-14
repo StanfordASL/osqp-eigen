@@ -1,0 +1,5 @@
+libosqp-eigen
+debhelper-build-stamp
+*.substvars
+.debhelper
+files

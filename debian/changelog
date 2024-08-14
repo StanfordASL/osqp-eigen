@@ -1,0 +1,5 @@
+osqp-eigen (0.8.1-1) focal; urgency=medium
+
+  * Debian package for Astrobee deployment
+
+ -- Ruben Garcia <nospam@nospam.org>  Tue, 13 Aug 2024 10:56:49 -0700
